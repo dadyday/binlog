@@ -1,0 +1,16 @@
+{
+    "name": "dadyday/binlog",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Binlog\\": "src/"
+        }
+    },
+    "require-dev": {
+        "tracy/tracy": "*",
+        "nette/tester": "*"
+    },
+    "require": {
+    }
+}
